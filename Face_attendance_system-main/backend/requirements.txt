@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-contrib-python
+numpy
+scikit-learn
+pandas
+python-multipart
+python-dotenv
+mysql-connector-python
